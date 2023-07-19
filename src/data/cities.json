@@ -1,0 +1,32 @@
+{
+    "cities": [
+        {
+            "value": "seattle",
+            "label": "Seatttle"
+        },
+        {
+            "value": "boston",
+            "label": "Boston"
+        },
+        {
+            "value": "miami",
+            "label": "Miami"
+        },
+        {
+            "value": "detroit",
+            "label": "Detroit"
+        },
+        {
+            "value": "pheonix",
+            "label": "Phoenix"
+        },
+        {
+            "value": "chicago",
+            "label": "Chicago"
+        },
+        {
+            "value": "sanantonia",
+            "label": "San Antonio"
+        }
+    ]
+}
